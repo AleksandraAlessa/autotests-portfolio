@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# Allure
+allure-results/
+allure-report/
+
+# IDE
+.idea/
+.vscode/
+
+# Спецификации (живут в корне репо)
+specs/
+dist/
